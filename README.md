@@ -1,4 +1,4 @@
-## Hi! I'm Anurag! 👋
+## Hi, I'm Anurag! 👋
 
 <!--
 **anuragnayak20/anuragnayak20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
