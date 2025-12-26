@@ -22,11 +22,11 @@ I'm a data analyst with practical experience using Excel, Power BI, MySQL, and e
 
 ### 🛠 Tech Stack
 
-### 💻 Languages
+#### 💻 Languages
 🐍 Python  
 🛢 SQL
 
-### 🛠 Tools
+#### 🛠 Tools
 📊 Excel, Power BI  
 🔄 ETL, Data Cleaning  
 🧠 EDA, Data Analysis  
