@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Anurag! 👋
 
 <!--
 **anuragnayak20/anuragnayak20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +22,15 @@ I'm a data analyst with practical experience using Excel, Power BI, MySQL, and e
 
 ### 🛠 Tech Stack
 
-**Languages:**  
-Python
+### 💻 Languages
+🐍 Python  
+🛢 SQL
 
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Cursor, Microsoft Excel, Microsoft Power BI Desktop 
-
-**Databases:**  
-MySQL
+### 🛠 Tools
+📊 Excel, Power BI  
+🔄 ETL, Data Cleaning  
+🧠 EDA, Data Analysis  
+🗂 Git, GitHub
 
 ### 🚀 Featured Projects
 
