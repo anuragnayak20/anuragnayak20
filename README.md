@@ -56,7 +56,3 @@ I'm a data analyst with practical experience using Excel, Power BI, MySQL, and e
 
 - LinkedIn: [`My LinkedIn`](https://www.linkedin.com/in/anurag-nayak1/)
 - Email: nayakanurag021201@gmail.com
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anuragnayak20)
