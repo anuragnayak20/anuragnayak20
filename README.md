@@ -22,17 +22,17 @@ I'm a data analyst with practical experience using Excel, Power BI, MySQL, and e
 
 ### 🛠 Tech Stack
 
-#### 💻 Languages
+#### 💻 Languages:
 🐍 Python  
 🛢 SQL
 
-#### 🛠 Tools
+#### 🛠 Tools:
 📊 Excel, Power BI  
 🔄 ETL, Data Cleaning  
 🧠 EDA, Data Analysis  
 🗂 Git, GitHub
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 
 #### 🔹 Wholesale Price Index Inflation Analysis
 - Project to analyse the trends in WPI, its commodities and the impact of external variables on WPI.
